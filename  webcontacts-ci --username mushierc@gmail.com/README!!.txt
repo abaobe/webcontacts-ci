@@ -1,0 +1,2 @@
+The application name is "webcontacts" and therefore if renamed, the following code fragments should be changed:
+The reference in the link on the view page "home.php", the first part should therefore reflect the name of the application.
